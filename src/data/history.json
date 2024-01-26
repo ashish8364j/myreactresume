@@ -1,0 +1,19 @@
+[
+  {
+    "role": "Backend-Developer",
+    "organisation": "Farcraws-Isro",
+    "startDate": "Sep, 2023",
+    "endDate": "Present",
+    "experiences": ["Working on Backend part of project"],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "Developer",
+    "organisation": "Zoorway-Startup",
+    "startDate": "Nov, 2023",
+    "endDate": "Present",
+    "experiences": ["Working on food delivery App"],
+    "imageSrc": "history/microsoft.png"
+  }
+  
+]

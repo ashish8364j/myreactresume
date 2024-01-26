@@ -1,0 +1,19 @@
+[
+  {
+    "title": "Project A",
+    "imageSrc": "projects/project.png",
+    "description": "This is a real-time chatting app with duo video-call .",
+    "skills": ["React-Native", "Express", "Ui-Kitten","Socket-Io","firebase"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Project B",
+    "imageSrc": "projects/project.png",
+    "description": "This is a voice-chat web app.",
+    "skills": ["React", "Express", "Node", "Socket-Io","Api","mongodb"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+   
+]

@@ -1,0 +1,40 @@
+
+[
+  {
+    "title": "HTML",
+    "imageSrc": "../../../img/html.jpg"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "../../../img/css.jpg"
+  },
+  {
+    "title": "Java-Script",
+    "imageSrc":"../../../img/js.webp"
+  },
+  {
+    "title": "React",
+    "imageSrc":"../../../img/react.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "../../../img/node.png"
+  },
+  {
+    "title": "Express",
+    "imageSrc": "../../../img/expjs.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "../../../img/mongodb.png"
+  },
+  {
+    "title": "React-Native",
+    "imageSrc": "../../../img/reactnative.png"
+  },
+  
+  {
+    "title": "Firebase",
+    "imageSrc": "../../../img/firebase.png"
+  }
+]
